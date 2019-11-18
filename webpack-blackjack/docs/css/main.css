@@ -1,0 +1,16 @@
+*{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    grid: display;
+    align-content: center;
+    text-align: center;
+}
+#app {
+    padding: 2rem;
+    height: 100vh;
+    width: 100%;
+    background-color: tomato;
+}
